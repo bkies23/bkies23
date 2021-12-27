@@ -1,14 +1,17 @@
-- 👋 Hello, my name is Brian Kies.
+- 👋 Hello, my name is Brian Kies from San Antonio, Texas.
 - 👀 I am interested in a remote part-time programming job. I graduated Magna Cum Laude 
-     from St. Mary's University in San Antonio, TX with a degree in Computer Science
+     from St. Mary's University in San Antonio with a degree in Computer Science
      and a minor in Mathematics.
-- 🌱 For the last year and a half I have worked exclusively with Java NetBeans
-     and MySql. During this time I have written four programs that have been 
-     uploaded to GitHub. I used the Swing pallette for two of these programs and
-     manually coded components and layout managers for the other two.
-     Here is a synopsis of each program with an item ot two for each I am proud of.
+- 🌱 For the last year and a half I have been working with Java NetBeans
+     and MySql. During this time I have written four programs which I have
+     uploaded to GitHub.  For two programs I used the Swing pallette and
+     for two I manually coded components and layout managers.
      
-     U.S. Flag Histories - This program looks at the history of the first four U.S. flags.
+     Here is a synopsis of each program with an item or two about their coding.
+     
+     U.S. Flag Histories - This program looks at the history of the first four U.S. flags 
+     along with our present day flag. It extends a base class Flag which sets colors, stripes 
+     and canton dimensions, and has methods to draw both stripes and canton.   
     
      
 - 💞️ I am looking forward to 
