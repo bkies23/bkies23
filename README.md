@@ -4,8 +4,7 @@
      and a minor in Mathematics.
 - 🌱 For the last year and a half I have been working with Java NetBeans and MySql. 
 -    During this time I have written four programs which I have uploaded to GitHub.  
--    For two of the programs I used the Swing pallette and for the other two I 
--    manually coded the components and layout managers.
+-    Two of the programs use the Swing pallette for construction of components and the other two are manually coded with components and layout managers.
      
      Here is a synopsis of each program with an item or two about their coding.
      
@@ -18,6 +17,10 @@
      thirteen stripes.
      
      Ray Of Light:
+     This program looks at a math problem I thought of regarding a ray of light emitted from the top of a 10-foot pole which forms the hypotenuse of a right triangle.
+     At what distances does the ray of light strike the surface as it approaches 90 degrees and , in particular, at what distance does it strike the surface just before
+     it is at 90 degrees and perpendicular to the surface?
+     
      
     
      
