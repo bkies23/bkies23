@@ -4,7 +4,7 @@
      and a minor in Mathematics.
 - 🌱 For the last year and a half I have been working with Java NetBeans and MySql. 
 -    During this time I have written four programs which I have uploaded to GitHub.  
--    Two of the programs use the Swing pallette for construction of components and the other two are manually coded.
+-    Two of the programs use the Swing pallette for components and the other two I manually coded.
      
      Here is a synopsis of each program with an item or two about their coding.
      
