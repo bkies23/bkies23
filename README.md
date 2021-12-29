@@ -3,18 +3,17 @@
      from St. Mary's University in San Antonio with a degree in Computer Science
      and a minor in Mathematics.
 - 🌱 For the last year and a half I have been working with Java NetBeans and MySql. 
--    During this time I have written four programs which I've uploaded to GitHub.  
--    Two of the programs use the Swing pallette for components and the other two I manually coded.
+-    During this time I have written four programs which have been uploaded to GitHub.  
+-    Two of the programs use the Swing pallette for components and I have manually coded the other two.
      
      Here is a synopsis of each program with an item or two about their coding.
      
      U.S. Flag Histories:
-     This program looks at the history of the first four U.S. flags  along with our present day flag.
-     It extends a Flag class which sets the colors, stripe and canton dimensions, and methods for drawing
-     stripes and canton. Only white stripes are drawn every other stripe width as a red
-     background takes care of the red stripes. And the Lewis & Clark flag is the only one 
-     to have its own method for drawing stripes since it is the one flag to have more than
-     thirteen stripes.
+     This program looks at the history of the first four U.S. flags along with our present day flag.
+     I have written a separate class (BetsyRoss, LewisAndClark, etc.) for each flag and they each extend a Flag base class which sets flag width and height, 
+     colors, stripes and canton dimensions, and has methods for drawing stripes and canton. Only white stripes are drawn every other stripe width as the red
+     background takes care of the red stripes. The Lewis & Clark flag is the only one to have its own method for drawing stripes since it is the only flag 
+     to have more than thirteen stripes.
      
      Ray Of Light:
      This program looks at a math problem I thought of regarding a ray of light emitted from the top of a 10-foot pole which forms the hypotenuse of a right triangle.
