@@ -4,15 +4,15 @@
      and a minor in Mathematics.
 - 🌱 For the last year and a half I have been working with Java NetBeans and MySql. 
 -    During this time I have written four programs which have been uploaded to GitHub.  
--    Two of the programs use the Swing pallette for components and I have manually coded the other two.     
+-    Two of the programs use the Swing pallette for adding components and I have manually coded the other two.     
      Here is a synopsis of each program with an item or two about their coding.
      
      U.S. Flag Histories:
      This program looks at the history of the first four U.S. flags along with our present day flag.
      
-     I have written a separate class (BetsyRoss, LewisAndClark, etc.) for each flag and they each extend a Flag base class which sets flag width and height, 
+     I have written a separate class (BetsyRoss, LewisAndClark, etc.) for each flag and each extends a Flag base class which sets flag width and height, 
      colors, stripes and canton dimensions, and has methods for drawing the stripes and canton. Only white stripes are drawn (every other stripe width) as the red
-     background takes care of red stripes. The Lewis & Clark flag is the only one with its own method for drawing stripes since it is the only flag with more
+     background takes care of red stripes. Only the Lewis & Clark flag has its own method for drawing stripes since it is the only flag with more
      than thirteen stripes.
      
      Ray Of Light:
@@ -20,15 +20,15 @@
      of a right triangle, at what distances does the ray of light strike the surface as it approaches 90 degrees, in particular, at what distance just before it
      is at 90 degrees and perpendicular to the surface?
      
-     I had to experiment with GridBag layout in order for panel components to display proportionately with window resizing. It uses the tangent funcion to compute
+     I had to experiment with GridBag layout on this one in order for panel components to display proportionately with window resizing. It uses the tangent funcion to compute
      the various distances. 
      
      Ratios:
-     This is one of two programs that involves aspects of the Covid-19 pandemic. This one looks at the lack of U.S. leadership and uses a ratio to show
-     the difference in how South Korea handled the crisis. 
+     This is one of two programs that involves aspects of the Covid-19 pandemic. This one looks at the lack of U.S. leadership and leads to a ratio which shows
+     how South Korea's handling of the crisis aved lives. 
      
-     The program uses three timers: One for text that displays across the screen, one for a counter of American lives lost, and on for a picture frame of
-     images from the pandemic. 
+     The program uses three timers: One for script that displays across the screen, one for a counter of the American lives lost, and one for a picture frame of
+     images from the pandemic. There are six pages and each page has its own class. 
      
      
      
