@@ -11,20 +11,24 @@
      This program looks at the history of the first four U.S. flags along with our present day flag.
      
      I have written a separate class (BetsyRoss, LewisAndClark, etc.) for each flag and they each extend a Flag base class which sets flag width and height, 
-     colors, stripes and canton dimensions, and has methods for drawing stripes and canton. Only white stripes are drawn (every other stripe width) as the red
+     colors, stripes and canton dimensions, and has methods for drawing the stripes and canton. Only white stripes are drawn (every other stripe width) as the red
      background takes care of red stripes. The Lewis & Clark flag is the only one with its own method for drawing stripes since it is the only flag with more
      than thirteen stripes.
      
      Ray Of Light:
      This program looks at a math problem I thought of regarding a ray of light emitted from the top of a 10-foot pole. Since the ray of light forms the hypotenuse 
      of a right triangle, at what distances does the ray of light strike the surface as it approaches 90 degrees, in particular, at what distance just before it
-     is at degrees and perpendicular to the surface?
+     is at 90 degrees and perpendicular to the surface?
      
-     I had to experiment with the GridBag layout in order for panel componehts to display proportionately with window resizing. It uses the tangent funcion
-     to compute the distances 
+     I had to experiment with GridBag layout in order for panel components to display proportionately with window resizing. It uses the tangent funcion to compute
+     the various distances. 
      
      Ratios:
-     This program 
+     This is one of two programs that involves aspects of the Covid-19 pandemic. This one looks at the lack of U.S. leadership and uses a ratio to show
+     the difference in how South Korea handled the crisis. 
+     
+     The program uses three timers: One for text that displays across the screen, one for a counter of American lives lost, and on for a picture frame of
+     images from the pandemic. 
      
      
      
