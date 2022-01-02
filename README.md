@@ -11,16 +11,16 @@
      I have written a separate class (BetsyRoss, LewisAndClark, etc.) for each flag and each extends a Flag base class. The base class sets width and height, 
      colors, stripes and canton dimensions, and has methods for drawing the stripes and canton. Only white stripes are drawn (every other stripe width) 
      as the red background takes care of red stripes. The Lewis & Clark flag has its own method for drawing stripes as it is the only flag to have had
-     more than thirteen stripes. Each flag has its own method for drawing stars as they are different for each flag. For the BetsyRossFlag I used  
-     Math.Pi, Math.Sin, and Math.Cos funcitons to draw the thirteen stars in a circle.
+     more than thirteen stripes. Each flag has its own method for drawing stars as they are different for each flag. For the BetsyRossFlag I used Math.Pi,
+     Math.Sin, and Math.Cos funcitons to draw the thirteen stars in a circle.
      
      Ray Of Light:
      This program looks at a math problem I thought of regarding a ray of light emitted from the top of a 10-foot pole. Since the ray of light forms the hypotenuse 
      of a right triangle, at what distances does the ray of light strike the surface as it approaches 90 degrees. In particular, at what distance does it strike the
      surface just before it is at 90 degrees and perpendicular to the surface?
      
-     I had to experiment with GridBag layout on this one to display panel components proportionately upon resizing of window. It uses the tangent funcion
-     to compute the various distances. 
+     I had to experiment with GridBag layout on this one to display panel components proportionately upon resizing of window. It uses the Math.toRadians, Math.PI,
+     and Math.tan functions to compute the various distances. 
      
      Ratios:
      This is one of two programs that involves aspects of the Covid-19 pandemic. This one looks at the lack of U.S. leadership and analyzes a ratio which shows
@@ -43,11 +43,11 @@
      
      Pandemic:
      This program uses the MySql database I created to store pandemic numbers since March 1, 2020. It uses ResultSets to retrieve the data and PreparedStatements to
-     execute MySql commands on the data. The user can also draw charts by selecting a date range and category (Total Cases, Average Cases, Total Deaths, etc.) If you
-     maintain a separate CVS spreadsheet(I use Open Office) of the data, you can imort the file into the program. You are able to export the table as well. 
+     execute MySql commands on the data. The user The user can also draw charts by selecting a date range and category (Total Cases, Average Cases, Total Deaths, etc.) If you
+     maintain a separate CSV spreadsheet of the data (I use Open Office), you can imort the file into the program. You are able to export the table as well. 
      
-- 💞️ I currently work for UPS as an Account Manager. I have been with them for 15 years. I previoulsy worked several years for AT&T. 
-- I am looking forward to hearing back on a remote part-time programming postion. 
+- 💞️ I currently work for UPS as an Account Manager. I have been employed there for 15 years. I previoulsy worked several years for AT&T. 
+- I am looking forward to hearing back on remote part-time programming postions. 
 - 📫 You can reach me by email or by mobile phone:  bkies@ymail.com   210-540-6273
 
 <!---
