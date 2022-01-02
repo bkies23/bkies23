@@ -8,7 +8,7 @@
      U.S. Flag Histories:
      This program looks at the history of the first four U.S. flags along with our present day flag.
      
-     I have written a separate class (BetsyRoss, LewisAndClark, etc.) for each flag and each extends a Flag base class which sets width and height, 
+     I have written a separate class (BetsyRoss, LewisAndClark, etc.) for each flag and each extends a Flag base class. The base class sets width and height, 
      colors, stripes and canton dimensions, and has methods for drawing the stripes and canton. Only white stripes are drawn (every other stripe width) 
      as the red background takes care of red stripes. The Lewis & Clark flag has its own method for drawing stripes as it is the only flag to have had
      more than thirteen stripes. Each flag has its own method for drawing stars as they are different for each flag. For the BetsyRossFlag I used  
@@ -32,7 +32,7 @@
      manually added a X Close button in the upper right corner. Since the script continually moves across and down the screen, it would be too difficult to replicate
      if the window was repainted. 
      
-     The program retrieves data from a MySql database I created that stores pandemic numbers since March 1, 2020 onward. The data has been taken from the
+     The program retrieves data from a MySql database I created that stores pandemic numbers since March 1, 2020 to the present. The data has been taken from the
      New York Times and Washington Post websistes. 
      
      I learned about web scraping for this project and extracted data from the Worldmeters website to obtain current South Korea case total and South Korea and
