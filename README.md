@@ -14,7 +14,7 @@
      more than thirteen stripes. Each flag has its own method for drawing stars as they are different for each flag. For the BetsyRossFlag I used Math.Pi,
      Math.Sin, and Math.Cos funcitons to draw the thirteen stars in a circle.
      
-     Ray Of Light:
+     Ray Of Light: 
      This program looks at a math problem I thought of regarding a ray of light emitted from the top of a 10-foot pole. Since the ray of light forms the hypotenuse 
      of a right triangle, at what distances does the ray of light strike the surface as it approaches 90 degrees. In particular, at what distance does it strike the
      surface just before it is at 90 degrees and perpendicular to the surface?
