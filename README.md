@@ -26,13 +26,13 @@
      This is one of two programs that involves aspects of the Covid-19 pandemic. This one looks at the lack of U.S. leadership and analyzes a ratio which shows
      South Korea's handling of the crisis resulted in far less loss of life.
      
-     The program displays six sequential pages with each page being a class. Again, as in the Flag program, each extends a Page base class which has common timer and 
+     The program displays six sequential pages with each page being a class. Again, as in the Flag program, each extends a Page base class which has common counter and 
      location variables for all pages. Three different timers are used: one for page scripts written across and down screen, one for JLabel that counts lives lost, and 
      one for picture frame (JLabel with Image Icons) displaying chronological images from pandemic. I designed this program where it cannot be moved or minimized and
      manually added a X Close button in the upper right corner. Since the script continually moves across and down the screen, it would be too difficult to replicate
      if the window was repainted. 
      
-     The program retrieves data from a MySql database I created which stores numbers on the pandemic from March 1, 2020 onward. The data has been taken from the
+     The program retrieves data from a MySql database I created that stores pandemic numbers since March 1, 2020 onward. The data has been taken from the
      New York Times and Washington Post websistes. 
      
      I learned about web scraping for this project and extracted data from the Worldmeters website to obtain current South Korea case total and South Korea and
@@ -42,11 +42,9 @@
      for the program to circle round from Page One.
      
      Pandemic:
-     
-     
-     
-     
-    
+     This program uses the MySql database I created to store pandemic numbers since March 1, 2020. It uses ResultSets to retrieve the data and PreparedStatements to
+     execute MySql commands on the data. The user can also draw charts by selecting a date range and category (Total Cases, Average Cases, Total Deaths, etc.) If you
+     maintain a separate CVS spreadsheet(I use Open Office) of the data, you can imort the file into the program. You are able to export the table as well. 
      
 - 💞️ I currently work for UPS as an Account Manager. I have been with them for 15 years. I previoulsy worked several years for AT&T. 
 - I am looking forward to hearing back on a remote part-time programming postion. 
