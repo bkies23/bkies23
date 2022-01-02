@@ -6,6 +6,7 @@
      Here is a synopsis of each program with an item or two about the code.
      
      U.S. Flag Histories:
+     
      This program looks at the history of the first four U.S. flags along with our present day flag.
      
      I have written a separate class (BetsyRoss, LewisAndClark, etc.) for each flag and each extends a Flag base class. The base class sets width and height, 
@@ -15,6 +16,7 @@
      Math.Sin, and Math.Cos funcitons to draw the thirteen stars in a circle.
      
      Ray Of Light: 
+     
      This program looks at a math problem I thought of regarding a ray of light emitted from the top of a 10-foot pole. Since the ray of light forms the hypotenuse 
      of a right triangle, at what distances does the ray of light strike the surface as it approaches 90 degrees. In particular, at what distance does it strike the
      surface just before it is at 90 degrees and perpendicular to the surface?
@@ -23,6 +25,7 @@
      and Math.tan functions to compute the various distances. 
      
      Ratios:
+     
      This is one of two programs that involves aspects of the Covid-19 pandemic. This one looks at the lack of U.S. leadership and analyzes a ratio which shows
      South Korea's handling of the crisis resulted in far less loss of life.
      
@@ -42,6 +45,7 @@
      for the program to circle round from Page One.
      
      Pandemic:
+     
      This program uses the MySql database I created to store pandemic numbers since March 1, 2020. It uses ResultSets to retrieve the data and PreparedStatements to
      execute MySql commands on the data. The user The user can also draw charts by selecting a date range and category (Total Cases, Average Cases, Total Deaths, etc.) If you
      maintain a separate CSV spreadsheet of the data (I use Open Office), you can imort the file into the program. You are able to export the table as well. 
