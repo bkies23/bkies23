@@ -25,9 +25,8 @@
      and Math.tan functions to compute the various distances. 
      
      Ratios:
-     
      This is one of two programs that involves aspects of the Covid-19 pandemic. This one looks at the lack of U.S. leadership and analyzes a ratio which shows
-     South Korea's handling of the crisis resulted in far less loss of life.
+     South Korea's handling of the crisis has resulted in far less loss of life.
      
      The program displays six sequential pages with each page being a class. Again, as in the Flag program, each extends a Page base class which has common counter and 
      location variables for all pages. Three different timers are used: one for page scripts written across and down screen, one for JLabel that counts lives lost, and 
