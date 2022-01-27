@@ -2,7 +2,7 @@
 - 👀 I am interested in a remote part-time programming job. I graduated Magna Cum Laude 
      from St. Mary's University in San Antonio with a degree in Computer Science
      and a minor in Mathematics.
-- 🌱 For the last couple of years I have been working exclusively with Java NetBeans and MySql. I have uploaded to GitHub four programs written during this time. Two of the          programs use the Swing pallette for adding components and I manually coded componets for the other two. I have previously worked with C, C++, C Sharp, Java, Basic, Pascal,      and a little COBOL.
+- 🌱 For the last couple of years I have been working exclusively with Java NetBeans and MySql. I have uploaded to GitHub four programs written during this time. Two of the          programs use the Swing pallette and for the other two I have manually coded the componets. I have previously worked with C, C++, C Sharp, Basic, Pascal, and a little COBOL.
      Here is a synopsis of each program with an item or two about the code.
      
      U.S. Flag Histories:
