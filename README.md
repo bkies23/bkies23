@@ -2,15 +2,16 @@
 - 👀 I am interested in a remote part-time programming job. I graduated Magna Cum Laude 
      from St. Mary's University in San Antonio with a degree in Computer Science
      and a minor in Mathematics.
-- 🌱 For the last couple of years I have been working exclusively with Java NetBeans and MySql. I have uploaded to GitHub four programs written during this time. Two of the programs use the Swing pallette for adding components and for the other two I have manually coded components. I have previously worked with C, C++, C Sharp, Basic, Pascal, and a little COBOL.
+- 🌱 For the last couple of years I have been working exclusively with Java NetBeans and MySql. I have uploaded four programs written during this time onto GitHub. Two of the programs use the Swing pallette for adding components and the other two have manually coded components. Previously I have worked with C, C++, C Sharp, Basic, Pascal, and a little COBOL.
+
      Here is a synopsis of each program with an item or two about the code.
      
      U.S. Flag Histories:
      
      This program looks at the history of the first four U.S. flags along with our present day flag.
      
-     I have written a separate class (BetsyRoss, LewisAndClark, etc.) for each flag and each extends a Flag base class. The base class sets width and height, 
-     colors, stripes and canton dimensions, and has methods for drawing the stripes and canton. Only white stripes are drawn (every other stripe width) 
+     I have written a separate class for each flag (BetsyRoss, LewisAndClark, etc.) and each of these extends a Flag base class. The base class sets width and height, 
+     colors, dimensions for the stripes and canton, and contains methods for drawing both stripes and canton. Only white stripes are drawn (every other stripe width) 
      as the red background takes care of red stripes. The Lewis & Clark flag has its own method for drawing stripes as it is the only flag to have had
      more than thirteen stripes. Each flag has its own method for drawing stars as they are different for each flag. For the BetsyRossFlag I used Math.Pi,
      Math.Sin, and Math.Cos funcitons to draw the thirteen stars in a circle.
