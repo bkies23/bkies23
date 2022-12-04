@@ -4,9 +4,9 @@
      from St. Mary's University in San Antonio with a degree in Computer Science
      and a minor in Mathematics.
      
-- 🌱 For the last couple of years I have worked with Java NetBeans and MySql. I have designed and coded four programs during this time which are now on GitHub. Two of      the programs use Swing pallette components and have components added manually. I have previously worked with C, C++, C Sharp, Basic, Pascal, and some COBOL.
+- 🌱 For the last couple of years I have worked with Java NetBeans and MySql. I have designed and coded four programs during this time which are now on this GitHub        site. Two of the programs use Swing pallette components and components are added manually for the other two. I have previously worked with C, C++, C Sharp, Basic,      Pascal, and some COBOL.
 
-     Each project has a .JAR file which can be donwloaded to execute its program. The code for the program is in each repository. 
+     Each project has a .JAR file which can be donwloaded to execute the program. The code for the project is in each repository. 
 
      Here is a synopsis of the projects with an item or two about the code.
      
@@ -15,7 +15,7 @@
      This program looks at the history of the first four U.S. flags along with our present day flag.
      
      I have written a separate class for each flag (BetsyRoss, LewisAndClark, etc.) and each extends a Flag base class. The base class sets width, height, 
-     colors, dimensions of stripes and cantons, and has methods for drawing both the stripes and cantons with stars. Only white stripes are drawn as a red                  background is used for the red stripes. The Lewis & Clark flag has its own method for drawing stripes since it was the only flag with more than thirteen stripes.      Each flag has its own method for drawing stars as the stars are different for each flag. For the BetsyRossFlag (the only flag with stars in a circle), I used          Math.Pi,  Math.Sin, and Math.Cos funcitons to draw the thirteen stars in a circle.
+     colors, dimensions of stripes and cantons, and has methods for drawing both the stripes and cantons with stars. Only white stripes are drawn as a red                  background is used for the red stripes. The Lewis & Clark flag has its own method for drawing stripes since it was the only flag with more than thirteen stripes.      Each flag has its own method for drawing stars as the star pattern differs for each flag. For the BetsyRossFlag (the only flag with stars in a circle), I used          Math.Pi, Math.Sin, and Math.Cos functions to draw the stars in a circle.
      
      LightBeam: 
      
@@ -23,13 +23,13 @@
      of a right triangle with surfaces, at what distances does the ray strike a surface as it approaches 90 degrees. In particular, at what distance does it                strike just before it is at 90 degrees and perpendicular to the surface?
      
      I had to experiment with GridBag layout on this one to display panel components proportionately upon resizing of window. It uses Math.toRadians, Math.PI,
-     and Math.tan functions to compute the various distances. It also uses ImageIcon to display images (baseball infield, Aususta 16th hole, Indy race track, etc.) to      display distances for various angles (75.0, 85.0, 89.0, 89.9, 89.9999. etc.)
+     and Math.tan functions to compute the various distances. It also uses ImageIcon to display images (baseball infield, Aususta 16th hole, Indy race track, etc.)          reflecting distances for various angles (75.0, 85.0, 89.0, 89.9, 89.9999. etc.)
      
      Ratios:
      
      This is one of two programs involving aspects of the Covid-19 pandemic. This one looks at the lack of U.S. leadership and analyzes a ratio to show how South            Korea's handling of the crisis led to far less loss of life.
      
-     The program displays six sequential pages with each page being a class. Again, as in the Flag program, each extends a Page base class which has a common counter        and location variables for all pages. Three different timers are used: one for the scripts on the screen, one for a JLabel that counts the lives lost, and one for      a picture frame which displays chronological images of the pandemic. I designed this program where it cannot be moved or minimized and manually added a X Close        button in the upper right corner. Since the script continually moves across and down the screen, it would be too difficult to maintain if the window were              repainted. 
+     The program displays six sequential pages with each page being a class. Again, as in the Flag program, each extends a Page base class which has a common counter        and location variables for all pages. Three different timers are used: one for the scripts on the screen, one for a JLabel that counts the lives lost, and one for      a picture frame which displays chronological images of the pandemic. I designed this program where it cannot be moved or resized and manually added an X Close          button in the upper right corner. Since the script continually moves across and down the screen, it would have been too difficult to maintain if windows were          repainted. 
      
      The program retrieves data from a MySql database I created which stores pandemic numbers from March 1, 2020 to the present. The data has been taken from the
      New York Times and Washington Post websistes. 
