@@ -1,10 +1,14 @@
 - 👋 Hello, my name is Brian Kies from San Antonio, Texas.
+- 
 - 👀 I am interested in a remote part-time programming job. I graduated Magna Cum Laude 
      from St. Mary's University in San Antonio with a degree in Computer Science
      and a minor in Mathematics.
-- 🌱 For the last couple of years I have worked with Java NetBeans and MySql. I have designed and coded four programs during this time onto GitHub. Two of the              programs use Swing pallette components and two use manually added components. I have previously worked with C, C++, C Sharp, Basic, Pascal, andsome                    COBOL.
+     
+- 🌱 For the last couple of years I have worked with Java NetBeans and MySql. I have designed and coded four programs during this time which are now on GitHub. Two of      the programs use Swing pallette components and have components added manually. I have previously worked with C, C++, C Sharp, Basic, Pascal, and some COBOL.
 
-     Here is a synopsis of each program with an item or two about the code.
+     Each project has a .JAR file which can be donwloaded to execute its program. The code for the program is in each repository. 
+
+     Here is a synopsis of the projects with an item or two about the code.
      
      U.S. Flag Histories:
      
@@ -41,7 +45,9 @@
      maintain a separate CSV spreadsheet of the data (I use Open Office), you can import the file into the program. You are able to export the table as well. 
      
 - 💞️ I currently work for UPS as an Account Manager. I have been employed there for 15 years. I previoulsy worked several years for AT&T. 
+- 
 -    I am looking forward to hearing back on remote part-time programming postions. 
+-    
 - 📫 You can reach me by email or by mobile phone:  bkies@ymail.com   210-540-6273
 
 <!---
