@@ -43,7 +43,7 @@
      execute MySql commands on the data. The User can also draw charts by selecting a date range and category (Total Cases, Average Cases, Total Deaths, etc.) If you
      maintain a separate CSV spreadsheet of the data (I use Open Office), you can import the file into the program. You are able to export the table as well. 
      
-- 💞️ I currently work for UPS as an Account Manager. I have been employed there for 15 years. I previoulsy worked several years for AT&T. 
+- 💞️ I currently work for UPS as an Account Manager. I have been employed there for 15 years. Previously I worked several years for AT&T. 
 -    I am looking forward to hearing back on remote part-time programming postions. 
 -    📫 You can reach me by email or by mobile phone:  bkies@ymail.com   210-540-6273
 
