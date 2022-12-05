@@ -1,5 +1,4 @@
 - 👋 Hello, my name is Brian Kies from San Antonio, Texas.
-- 
 - 👀 I am interested in a remote part-time programming job. I graduated Magna Cum Laude 
      from St. Mary's University in San Antonio with a degree in Computer Science
      and a minor in Mathematics.
