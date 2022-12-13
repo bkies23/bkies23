@@ -5,7 +5,7 @@
      
 - 🌱 For the last couple of years I have worked with Java NetBeans and MySql. I have designed and coded four programs during this time which are now on this GitHub        site. Two of the programs use Swing pallette components and components are added manually for the other two. I have previously worked with C, C++, C Sharp, Basic,      Pascal, and some COBOL.
 
-     Each project has a .JAR file which can be donwloaded to execute the program. The code for the project is in each repository. 
+     Each project has a .JAR file which can be downloaded to execute the program. The code for the project is in each repository. 
 
      Here is a synopsis of the projects with an item or two about the code.
      
