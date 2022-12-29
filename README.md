@@ -7,7 +7,7 @@
 
      Each project has a .JAR file which can be downloaded to execute the program. The code for the project is in each repository. 
 
-     Here is a synopsis of the projects with an item or two about the code.
+     The README file for each project explains the program along with thoughts on how I coded it.
      
      U.S. Flag Histories:
      
