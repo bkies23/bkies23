@@ -3,7 +3,7 @@
      from St. Mary's University in San Antonio with a degree in Computer Science
      and a minor in Mathematics.
      
-- 🌱 For the last couple of years I have neen working exclusively with Java NetBeans and MySql. I have designed and coded four programs during this time which are now      on my GitHub site. Two of the programs use Swing pallette components and I manually added components for the other two. Previously I have worked with C, C++, C        Sharp, Basic, Pascal, and a little COBOL.
+- 🌱 For the last couple of years I have neen working exclusively with Java NetBeans and MySql. I designed and coded four programs during this time which are now      on my GitHub site. Two of the programs use Swing pallette components and for the other two I manually added components. I have previously worked with C, C++, C        Sharp, Basic, Pascal, and a little COBOL.
 
      Each project has a .JAR file which can be downloaded to execute the program. The code for the project is in each repository. 
 
