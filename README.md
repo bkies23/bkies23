@@ -26,7 +26,7 @@
  
      Pandemic:
      
-     This program tracks Covid19 data from March 1, 2020 through the most recent completeed month. Users can view and manipulate the data using tables and charts.
+     This program tracks Covid19 data from March 1, 2020 through the most recent completed month. Users can view and manipulate the data using tables and charts.
      
    
 - 💞️ I currently work for UPS as an Account Manager. I have been employed there for 16 years. I previously worked several years for AT&T. 
