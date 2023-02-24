@@ -30,7 +30,7 @@
      
    
 - 💞️ I currently work for UPS as an Account Manager. I have been employed there for 16 years. I previously worked several years for AT&T. 
--    I am looking forward to hearing back on remote part-time programming postions. 
+-    I look forward to hearing back on remote part-time programming postions. 
 -    📫 You can reach me by email or by mobile phone:  bkies@ymail.com   210-540-6273
 
 <!---
