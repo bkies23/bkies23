@@ -5,7 +5,7 @@
      
 - 🌱 For the last couple of years I have neen working exclusively with Java NetBeans and MySQL. I designed and coded four programs during this time which are now           on my GitHub site:
 -                                           github.com\bkies23                                                      
--   Two of the programs use Swing palette components and I manually added components for the other two programs. I have previously worked with C,       C++, C Sharp, Basic, Pascal, and a little COBOL.
+-   Two of the programs use Swing palette components and for the other two programs I added components manually. I have previously worked with C, C++, C Sharp, Basic, Pascal, and a little COBOL.
 
      Each project has a .JAR file which can be downloaded from the Master branch to execute the program. The code for the project is in each repository. 
 
@@ -26,7 +26,7 @@
  
      Pandemic:
      
-     This program tracks Covid19 data from March 1, 2020 through the most recent completed month. Users can view and manipulate the data using tables and charts.
+     This program tracks Covid19 data from March 1, 2020 through March 1, 2023. In early March of 2023 the New York Times and Washington Post stopped tracking the virus daily. Since this is the data I used for the program I stopped inputting it with the 3-1-2023 date. A User can still add ficticious data after 3-1-2023 to see how the program works. Users can view and manipulate the data with tables and charts.
      
    
 - 💞️ I currently work for UPS as an Account Manager. I have been employed there for 16 years. I previously worked several years for AT&T. 
