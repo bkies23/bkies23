@@ -2,17 +2,18 @@
 - 👀 I am interested in a remote part-time programming job. I graduated Magna Cum Laude 
      from St. Mary's University in San Antonio with a degree in Computer Science
      and a minor in Mathematics.    
-- 🌱 For the last few years I have been working with Java NetBeans and MySQL. I designed and coded four programs which I have pushed onto my GitHub site: github.com/bkies23                                                      
-- The programs are a combination of using Swing palette components and adding components manually.
-- I have previously worked with C, C++, C Sharp, Basic, Pascal, and a little COBOL.
+- 🌱 For the last few years I have been working with Java NetBeans and MySQL. I designed and coded three programs which I have pushed onto my GitHub site: github.com/bkies23                                                      
+- The programs use a combination of Swing palette components and components I added manually.
+- I have recently been working with Python and the fourth program (TrigLesson) is written using it.
+- I previously worked with C, C++, C Sharp, Basic, Pascal, and a little COBOL.
 
-- Each project has a .JAR file which can be downloaded from the Master branch to execute the program. The code for the projects is in rheir repository. 
+- Each project has a .JAR file under store folder (package-for-store) in Master branch which you can download to execute the program. The code for the projects is each in their repository. 
 
 - The README file for each project explains the program along with thoughts on how I coded it.
      
      U.S. Flag Histories:
      
-     This program looks at the history of the first four U.S. flags along with our present day flag.
+     This program looks at the history of the first four U.S. flags along with our present-day flag.
     
      LightBeam: 
      
