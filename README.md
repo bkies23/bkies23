@@ -3,13 +3,13 @@
      from St. Mary's University in San Antonio with a degree in Computer Science
      and a minor in Mathematics.
      
-- 🌱 For the last couple of years I have neen working exclusively with Java NetBeans and MySQL. I designed and coded four programs during this time which are now           on my GitHub site:
+- 🌱 For the last few years I have been working with Java NetBeans and MySQL. I designed and coded four programs during this time which are now on my GitHub site:
 -                                           github.com\bkies23                                                      
--   Two of the programs use Swing palette components and for the other two programs I added components manually. I have previously worked with C, C++, C Sharp, Basic, Pascal, and a little COBOL.
+- Two of the programs use Swing palette components and for the other two programs I added components manually. I have previously worked with C, C++, C Sharp, Basic, Pascal, and a little COBOL.
 
-     Each project has a .JAR file which can be downloaded from the Master branch to execute the program. The code for the project is in each repository. 
+- Each project has a .JAR file which can be downloaded from the Master branch to execute the program. The code for the project is in each repository. 
 
-     The README file for each project explains the program along with thoughts on how I coded it.
+- The README file for each project explains the program along with thoughts on how I coded it.
      
      U.S. Flag Histories:
      
