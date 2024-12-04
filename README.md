@@ -7,7 +7,7 @@
 - I have recently been working with Python and the fourth program (TrigLesson) is written with it.
 - I previously worked with C, C++, C Sharp, Basic, Pascal, and a little COBOL.
 
-- Each project has a .JAR file under store folder (package-for-store) in Master branch which you can download to execute the program. The code for the projects is each in their repository. 
+- Each project has a .JAR file under store folder (package-for-store) in master branch which you can download to execute the program. The code for the projects is in their repository. 
 
 - The README file for each project explains the program along with thoughts on how I coded it.
      
