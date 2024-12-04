@@ -4,12 +4,12 @@
      and a minor in Mathematics.    
 - 🌱 For the last few years I have been working with Java NetBeans and MySQL. I designed and coded three programs which I have pushed onto my GitHub site: github.com/bkies23                                                      
 - The programs use a combination of Swing palette components and components added manually.
-- I have recently been working with Python and the fourth program (TrigLesson) is written with it.
+- I have recently been studying Python and the fourth program (TrigLesson) is written with that language.
 - I previously worked with C, C++, C Sharp, Basic, Pascal, and a little COBOL.
 
-- Each project has a .JAR file under store folder (package-for-store) in master branch which you can download to execute the program. The code for the projects is in their repository. 
+- Each project has a .JAR file under store folder (package-for-store) in master branch which you can download to execute the program. The code for each project is in its repository. 
 
-- The README file for each project explains the program along with thoughts on how I coded it.
+- The README file for each project explains the program along with some thoughts on coding.
      
      U.S. Flag Histories:
      
@@ -17,8 +17,8 @@
     
      LightBeam: 
      
-     This program looks at a math problem I thought of regarding a beam of light emitted from the top of a 10-foot pole. Since the ray of light forms the hypotenuse of a right triangle with surfaces,
-     at what distances does the ray strike a surface as it approaches 90 degrees. In particular, at what distance does it strike just before it is at 90 degrees and perpendicular to the surface?
+     This program looks at a math problem I thought of regarding a beam of light emitted from the top of a 10-foot pole. Since the ray of light forms the hypotenuse of a right triangle with a surface,
+     at what distances does the ray strike the surface as it approaches 90 degrees. In particular, at what distance does it strike just before it is at 90 degrees and horizontal or perpendicular to the surface?
      
      Pandemic:
      
