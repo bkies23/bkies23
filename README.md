@@ -2,7 +2,7 @@
 - 👀 I am interested in a remote part-time programming job. I graduated Magna Cum Laude 
      from St. Mary's University in San Antonio with a degree in Computer Science
      and a minor in Mathematics.    
-- 🌱 For the last few years I have been working with Java NetBeans and MySQL. I designed and coded three programs which I have pushed onto my GitHub site: github.com/bkies23                                                      
+- 🌱 For the last few years I have been working with Java NetBeans and MySQL. I designed and coded three programs which I have pushed to my GitHub site: github.com/bkies23                                                      
 - The programs use a combination of Swing palette components and components added manually.
 - I have recently been studying Python and a fourth program (TrigLesson) is written in that language.
 - I previously worked with C, C++, C Sharp, Basic, Pascal, and a little COBOL.
@@ -17,17 +17,17 @@
     
      LightBeam: 
      
-     This program looks at a math problem I thought of regarding a beam of light emitted from the top of a 10-foot pole. Since the ray of light forms the hypotenuse of a right triangle with a surface,
-     at what distances does the ray strike the surface as it approaches 90 degrees. In particular, at what distance does it strike just before it is at 90 degrees and horizontal or perpendicular to the surface?
+     This program examines a math problem I thought of regarding a beam of light emitted from the top of a 10-foot pole. It grapically shows the increasing distances for the opposite side (or surface) as the angle between the ten-foot pole and the beam of light (starts 
+     at 75°) approaches 90°.
      
      Pandemic:
      
      This program tracks Covid19 data from March 1, 2020 through March 17, 2023. In March of 2023 the New York Times and Washington Post stopped tracking the virus daily and I stopped inputting data after 3-17-2023. A  user can still add ficticious data after 3-17-2023 
-     to see how the program works. Users can view and manipulate the data with tables and charts.
+     or modify, delete and insert rows to see how the program works. Users can also view the data with tables and charts.
 
      TrigLesson:
 
-     This program lets a user solve hypotenuse for right triangle by either using two sides, an adjacent side and cosine of angle, or oppisite side and sine of angle. 
+     This program lets a user solve hypotenuse for right triangle by either using two sides, an adjacent side and cosine of angle, or opposite side and sine of angle. 
      
    
 - 💞️ I currently work for UPS as an Account Manager and have been remote for the last three years. I have been employed with UPS for 17 years. Previously I worked several years for AT&T. 
