@@ -2,7 +2,7 @@
 - 👀 I am interested in a remote part-time programming job. I graduated Magna Cum Laude 
      from St. Mary's University in San Antonio with a degree in Computer Science
      and a minor in Mathematics.    
-- 🌱 For the last few years I have been working with Java NetBeans and MySQL. I designed and coded three programs which I have pushed to my GitHub site: github.com/bkies23                                                      
+- 🌱 For the last few years I have been working with Java NetBeans and MySQL. I designed and coded three programs which I have pushed to this GitHub site: github.com/bkies23                                                      
 - The programs use a combination of Swing palette components and components added manually.
 - I have recently been studying Python and a fourth program (TrigLesson) is written in that language.
 - I previously worked with C, C++, C Sharp, Basic, Pascal, and a little COBOL.
