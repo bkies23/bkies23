@@ -3,11 +3,11 @@
      from St. Mary's University in San Antonio with a degree in Computer Science
      and a minor in Mathematics.    
 - 🌱 For the last few years I have been working with Java NetBeans and MySQL. I designed and coded three programs which I have pushed to this GitHub site: github.com/bkies23                                                      
-- The programs use a combination of Swing palette components and components added manually.
+- The programs are a combination of Swing palette components and components added manually.
 - I have recently been studying Python and a fourth program (TrigLesson) is written in that language.
-- I previously worked with C, C++, C Sharp, Basic, Pascal, and a little COBOL.
+- I have previously worked with C, C++, C Sharp, Basic, Pascal, and a little COBOL.
 
-- Each project has a .JAR file in the store folder (package-for-store) under master branch. You can download it to execute the program. The code for each project is in its repository. 
+- Each project has a .JAR file in the store folder (package-for-store) under its master branch. You can download the .JAR file to execute the program. The code for each project is in its repository. 
 
 - The README file for each project explains the program along with some thoughts on coding.
      
@@ -23,11 +23,11 @@
      Pandemic:
      
      This program tracks Covid19 data from March 1, 2020 through March 17, 2023. In March of 2023 the New York Times and Washington Post stopped tracking the virus daily and I stopped inputting data after 3-17-2023. A  user can still add ficticious data after 3-17-2023 
-     or modify, delete and insert rows to see how the program works. Users can also view the data with tables and charts.
+     and modify, delete or insert rows to see how the program works. Users can view the data with tables and charts.
 
      TrigLesson:
 
-     This program lets a user solve hypotenuse for right triangle by either using two sides, an adjacent side and cosine of angle, or opposite side and sine of angle. 
+     This program lets a user solve the hypotenuse for right triangle by either using two sides, an adjacent side and cosine of angle, or opposite side and sine of angle. 
      
    
 - 💞️ I currently work for UPS as an Account Manager and have been remote for the last three years. I have been employed with UPS for 17 years. Previously I worked several years for AT&T. 
