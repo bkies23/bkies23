@@ -7,7 +7,7 @@
 - I have recently been studying Python and a fourth program (TrigLesson) is written in that language.
 - I have previously worked with C, C++, C Sharp, Basic, Pascal, and a little COBOL.
 
-- Each project has a .JAR file in the store folder (package-for-store) under its master branch. You can download the .JAR file to execute the program. The code for each project is in its repository. 
+- Each of the Java projects has a .JAR file in the store folder (package-for-store) under its master branch. You can download the .JAR file to execute the program. The code for each project is in its repository. The Python executable is under the Dist folder. 
 
 - The README file for each project explains the program along with some thoughts on coding.
      
