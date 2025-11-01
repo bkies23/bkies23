@@ -3,9 +3,9 @@
      from St. Mary's University in San Antonio with a degree in Computer Science
      and a minor in Mathematics.    
 - 🌱 For the last few years I have been working with Java NetBeans and MySQL. I designed and coded three programs which I have pushed to this GitHub site: github.com/bkies23                                                      
-- The programs are a combination of Swing palette components and components added manually.
+- The programs use either Swing palette components or manual added components.
 - I have recently been studying Python and a fourth program (TrigLesson) is written in that language.
-- I have previously worked with C, C++, C Sharp, Basic, Pascal, and a little COBOL.
+- Previously I have worked with C, C++, C Sharp, Basic, Pascal, and some COBOL.
 
 - Each of the Java projects has a .JAR file in the store folder (package-for-store) under its master branch. You can download the .JAR file to execute the program. The code for each project is in its repository. The Python executable is under the Dist folder. 
 
