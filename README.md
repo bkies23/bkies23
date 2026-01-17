@@ -3,7 +3,7 @@
      from St. Mary's University in San Antonio with a degree in Computer Science
      and a minor in Mathematics.    
 - 🌱 For the last few years I have been working with Java NetBeans and MySQL. I designed and coded three programs which I have pushed to this GitHub site. The programs use Swing palette components and components I added manually.
-- I have been studying Python for a year and two programs (TrigLesson and Fibonacci) have been written in that language.
+- I have been studying Python for a couple of years and two programs (HYP_SOLVER and FIBO) have been written in that language.
 - Previously I have worked with C, C++, Basic, Pascal, and some COBOL.
 
 - Each of the Java projects has a .JAR file in the store folder (package-for-store) under its master branch. You can download the .JAR file to execute the program. The code for each project is in its repository. The Python executable is under the Dist folder. 
@@ -24,9 +24,13 @@
      This program tracks Covid19 data from March 1, 2020 through March 17, 2023. In March of 2023 the New York Times and Washington Post stopped tracking the virus daily and I stopped inputting data after 3-17-2023. A  user can still add ficticious data after 3-17-2023 
      and modify, delete or insert rows to see how the program works. Users can view the data with tables and charts.
 
-     TrigLesson:
+     HYP_SOLVER:
 
      This program lets a user solve the hypotenuse for right triangle by either using two sides, an adjacent side and cosine of angle, or opposite side and sine of angle.
+
+     FIBO:
+
+     This program lets user select index from list to display Fibonacci element for 
 
      
      
