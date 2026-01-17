@@ -1,11 +1,10 @@
 - 👋 Hello, my name is Brian Kies from San Antonio, Texas.
-- 👀 I will just be retiring from UPS and I am interested in a remote part-time programming job. I graduated Magna Cum Laude 
+- 👀 I will just be retiring from UPS after 18 years and I am interested in a remote part-time programming job. I graduated Magna Cum Laude 
      from St. Mary's University in San Antonio with a degree in Computer Science
      and a minor in Mathematics.    
-- 🌱 For the last few years I have been working with Java NetBeans and MySQL. I designed and coded three programs which I have pushed to this GitHub site.                                                      
-- The programs use Swing palette components and components I added manually.
-- I have recently been studying Python and a fourth program (TrigLesson) is written in that language.
-- Previously I worked with C, C++, C Sharp, Basic, Pascal, and some COBOL.
+- 🌱 For the last few years I have been working with Java NetBeans and MySQL. I designed and coded three programs which I have pushed to this GitHub site. The programs use Swing palette components and components I added manually.
+- I have been studying Python for a year and two programs (TrigLesson and Fibonacci) have been written in that language.
+- Previously I have worked with C, C++, Basic, Pascal, and some COBOL.
 
 - Each of the Java projects has a .JAR file in the store folder (package-for-store) under its master branch. You can download the .JAR file to execute the program. The code for each project is in its repository. The Python executable is under the Dist folder. 
 
@@ -27,10 +26,12 @@
 
      TrigLesson:
 
-     This program lets a user solve the hypotenuse for right triangle by either using two sides, an adjacent side and cosine of angle, or opposite side and sine of angle. 
+     This program lets a user solve the hypotenuse for right triangle by either using two sides, an adjacent side and cosine of angle, or opposite side and sine of angle.
+
+     
      
    
-- 💞️ I currently work for UPS as an Account Manager and have been remote for the last four years. I have been employed with UPS for 18 years. Previously I worked several years for AT&T. 
+- 💞️ I currently work for UPS as an Account Manager and have been remote for the last five years. I have been employed with UPS for 18 years. Previously, I worked several years for AT&T. 
 -    I look forward to hearing back on remote part-time programming postions. 
 -    📫 You can reach me by email or by mobile phone:  bkies@ymail.com   210-540-6273
 
