@@ -1,5 +1,5 @@
 - 👋 Hello, my name is Brian Kies from San Antonio, Texas.
-- 👀 I am approaching retiring from UPS after 18 years and I am interested in a remote part-time programming job. I graduated Magna Cum Laude 
+- 👀 I am approaching retirement from UPS after 18 years and I am interested in a remote part-time programming job. I graduated Magna Cum Laude 
      from St. Mary's University in San Antonio with a degree in Computer Science and a minor in Mathematics.    
 - 🌱 For the last few years I have been working with Java NetBeans and some MySQL. I designed and coded three programs which I have pushed to this GitHub site. The programs use Swing palette components and components I added manually.
 - I have been studying Python for a couple of years and two of the programs (HYP_SOLVER and FIBO) on GitHub are written in that language.
